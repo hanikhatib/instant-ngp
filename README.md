@@ -56,7 +56,7 @@ sudo pacman -S cuda
 
 Begin by cloning this repository and all its submodules using the following command:
 ```sh
-$ git clone --recursive https://github.com/nvlabs/instant-ngp
+$ git clone --recursive https://github.com/hanikhatib/instant-ngp
 $ cd instant-ngp
 ```
 
