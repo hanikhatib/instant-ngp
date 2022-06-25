@@ -14,6 +14,12 @@ In each case, we train and render a MLP with multiresolution hash input encoding
 
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/)
 
+# My Implementations
+I have succesfully rendered 2 scenes so far, and have a few more scenes that are currently going through some feature engineering and will be ready soon.
+
+
+https://user-images.githubusercontent.com/85202161/175753624-0d5b61b8-582c-442d-91fa-2bcdb3d34a32.mp4
+
 
 ## Requirements
 
